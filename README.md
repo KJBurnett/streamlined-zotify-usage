@@ -2,6 +2,7 @@
 
 ## Notes
 Zotify is a great tool for downloading music that is unavailable elsewhere, however the documentation leaves much to be desired. This is a streamlined and smoothed approach to get you up and running in less than 5 minutes.
+I created a script to automate this entire manula process described below for Windows machines, but it has not been stress tested. It "worked on my machine", **use at your own risk.** So that's my disclaimer! :D
 
 ## Overview
 
